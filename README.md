@@ -1,0 +1,2 @@
+# Fundify
+A Crowdfunding App
